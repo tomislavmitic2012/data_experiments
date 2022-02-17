@@ -1,2 +1,3 @@
 # data_experiments
-stuff with data
+
+* simple jupyter notebooks with some simple ml problems
